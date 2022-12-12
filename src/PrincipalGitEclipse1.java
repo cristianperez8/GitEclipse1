@@ -16,5 +16,5 @@ public class PrincipalGitEclipse1 {
 		int c;
 		c = a * b;
 		return c;
-		}
+		} 
 }
